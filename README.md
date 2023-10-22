@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/badal-gupta-279490247/**
-<h2 align="left">Hi 👋! My name is Badal and I'm a full stack developer.</h2>
+
 
 ###
 
